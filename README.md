@@ -4,7 +4,7 @@
 
 - Name: Yuta Ide
 - Twitter: [sadnessOjisan](https://twitter.com/sadnessOjisan)
-- github: [sadnessOjisan](https://github.com/sadnessOjisan)
+- GitHub: [sadnessOjisan](https://github.com/sadnessOjisan)
 
 ## career
 
