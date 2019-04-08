@@ -34,6 +34,8 @@
 ### presentation
 
 - [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha)
+- [ 勝手にビブリオバトル「JavaScriptで学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs)
+- [react-redux code reading!](https://speakerdeck.com/sadnessojisan/react-redux-code-reading-number-meguroes)
 
 ### writing
 
