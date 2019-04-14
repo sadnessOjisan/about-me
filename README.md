@@ -18,7 +18,7 @@
 ## skill
 
 - Frontend: React, Redux, NextJS, Gatsby, Vue, Nuxt, Flow, TypeScript
-- Backend: Ruby on Rails, Express
+- Backend: Ruby on Rails, Express, Spring
 - 教育や育成. クオータ毎に、新任者向けに React 講習会を開いています。
 
 色々と書きましたが React 全振りです。
