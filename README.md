@@ -12,8 +12,8 @@
 
 - ~ 2017/3: 石川県の山奥で教育学のお勉強.
 - 2017/4 ~ : 株式会社 [リクルートライフスタイル](https://www.recruit-lifestyle.co.jp/) 入社 -> 3 ヶ月の営業研修の後、UX デザイナーとして配属。ウェブメディアの校閲や編集を担当
-- 2018/4 ~ : フロントエンドエンジニアとして異動. インターン生と 2 人で新規サービスのフロントエンド開発を担当.
-- 2019/4 ~ : バックエンドエンジニアとして異動. JavaでSpring.
+- 2018/4 ~ : フロントエンドエンジニアとして異動. [Air メイト](https://airregi.jp/mate/)のフロントエンド開発を担当.
+- 2019/4 ~ : バックエンドエンジニアとして異動. Java で Spring してる.
 
 ## skill
 
@@ -25,21 +25,15 @@
 
 ## works
 
-### service
-
-- [Air メイト](https://airregi.jp/mate/) のフロントエンドをインターン生と開発。このときインターン生に怒られる芸とキャラと技術力を身につける（インターン生の方が社員よりはるかに優秀だったというアレです）
-- AI スタートアップのダッシュボード開発
-- スタートアップにてカレンダーアプリのプロトタイプ開発
-- スタートアップにて仮想通貨のウォレット開発
-
 ### presentation
 
 - [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha)
-- [ 勝手にビブリオバトル「JavaScriptで学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs)
+- [ 勝手にビブリオバトル「JavaScript で学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs)
 - [react-redux code reading!](https://speakerdeck.com/sadnessojisan/react-redux-code-reading-number-meguroes)
 
 ### writing
 
+- [関心の分離を意識してサーバーを作ってみる(TypeScript + Express)](https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd)
 - [Marquee タグに詳しくないと攻略できないブロック崩しゲーム](https://qiita.com/sadnessOjisan/items/51bb949466fdd065a5a6)
 - [スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる](https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720)
 - [React Redux を型で縛ってみよう](https://engineer.recruit-lifestyle.co.jp/techblog/2019-01-31-how-to-bind-react-with-Flow/)
