@@ -11,9 +11,9 @@
 ## career
 
 - ~ 2017/3: 石川県の大学院で教育学を専攻. 教職につかずに、Web 業界へ就職.
-- 2017/4 ~ : 株式会社 [リクルートライフスタイル](https://www.recruit-lifestyle.co.jp/) 入社 -> 3 ヶ月の営業研修の後、UX デザイナーとして配属。ウェブメディアの校閲や編集を担当
+- 2017/4 ~ : 株式会社 [リクルートライフスタイル](https://www.recruit-lifestyle.co.jp/) 入社. 3 ヶ月の営業研修の後、UX デザイナーとして配属。ウェブメディアの校閲や編集を担当
 - 2018/4 ~ : フロントエンドエンジニアとして異動. [Air メイト](https://airregi.jp/mate/)のフロントエンド開発を担当.
-- 2019/4 ~ : バックエンドエンジニアとして異動. Java で Spring してる.
+- 2019/4 ~ : バックエンドエンジニアとして異動. Java で Spring.
 
 ## skill
 
@@ -27,9 +27,10 @@
 
 ### presentation
 
-- [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha)
-- [ 勝手にビブリオバトル「JavaScript で学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs)
-- [react-redux code reading!](https://speakerdeck.com/sadnessojisan/react-redux-code-reading-number-meguroes)
+- [Form の送信ログから反省する、 本当は必要だったバリデーションや機能たち](https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati) / [Inside Frontend](http://inside-frontend.com)
+- [react-redux code reading!](https://speakerdeck.com/sadnessojisan/react-redux-code-reading-number-meguroes) / [Meguro.es # 20 @ Drecom](https://meguroes.connpass.com/event/118731/)
+- [ 勝手にビブリオバトル「JavaScript で学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs) / [We Are JavaScripters! @30th【初心者歓迎 LT 大会】](https://wajs.connpass.com/event/122984/)
+- [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha) / [Roppongi.js #6@メルカリ](https://roppongi-js.connpass.com/event/98983/)
 
 ### writing
 
@@ -43,3 +44,4 @@
 ### 電子ゴミ
 
 - [web 廃墟コンポーネント](https://github.com/sadnessOjisan/re-geo)
+  - ジオシティーズライクなページを作るための React コンポーネント集
