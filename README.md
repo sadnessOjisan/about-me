@@ -34,12 +34,14 @@
 
 ### writing
 
+- [マッチングアプリ強者を体験できる PWA 開発で、Web プッシュ通知を理解しよう](https://qiita.com/sadnessOjisan/items/05bbca78bca3301d24b2)
 - [関心の分離を意識してサーバーを作ってみる(TypeScript + Express)](https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd)
 - [Marquee タグに詳しくないと攻略できないブロック崩しゲーム](https://qiita.com/sadnessOjisan/items/51bb949466fdd065a5a6)
 - [スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる](https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720)
 - [React Redux を型で縛ってみよう](https://engineer.recruit-lifestyle.co.jp/techblog/2019-01-31-how-to-bind-react-with-Flow/)
 - [React 勉強会のノウハウを紹介します](https://engineer.recruit-lifestyle.co.jp/techblog/2019-01-17-react-training/)
 - [Node 学園祭の最終回に参加してきました](https://gihyo.jp/news/report/2018/12/0601)
+
 
 ### 電子ゴミ
 
