@@ -48,5 +48,7 @@
 
 ### 電子ゴミ
 
+- [外国語のドキュメントに出会った時の感覚を、外国人感覚で味わうツール](https://exoticism.netlify.com)
+  - ソースコード以外を全部漢字に変換します。ReasonML + OCaml + React
 - [web 廃墟コンポーネント](https://github.com/sadnessOjisan/re-geo)
   - ジオシティーズライクなページを作るための React コンポーネント集
