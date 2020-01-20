@@ -18,37 +18,46 @@
 ## skill
 
 - Frontend: React, Redux, NextJS, Gatsby, Vue, Nuxt, Flow, TypeScript
-- Backend: Ruby on Rails, Express, Spring
-- 教育や育成. クオータ毎に、新任者向けに React 講習会を開いています。
-
-色々と書きましたが React 全振りです。
+- Backend: Express, Spring, Ruby on Rails
 
 ## works
 
 ### presentation
 
-- [簡単には届かなかった web push/web-push-is-difficult](https://speakerdeck.com/sadnessojisan/web-push-is-difficult-number-pwanight)/pwanight
-- [gatsby-image をやめたいから勉強した話 -gatsby を amp 化したい-](https://speakerdeck.com/sadnessojisan/gatsby-imagewoyametaikaramian-qiang-sitahua-gatsbywoamphua-sitai)/Meguro.es
-- [Form の送信ログから反省する、 本当は必要だったバリデーションや機能たち](https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati) / [Inside Frontend](http://inside-frontend.com)
-- [react-redux code reading!](https://speakerdeck.com/sadnessojisan/react-redux-code-reading-number-meguroes) / [Meguro.es # 20 @ Drecom](https://meguroes.connpass.com/event/118731/)
-- [ 勝手にビブリオバトル「JavaScript で学ぶ関数型プログラミング」#wejs](https://speakerdeck.com/sadnessojisan/sheng-shou-nibiburiobatoru-javascriptdexue-buguan-shu-xing-puroguramingu-number-wejs) / [We Are JavaScripters! @30th【初心者歓迎 LT 大会】](https://wajs.connpass.com/event/122984/)
-- [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha) / [Roppongi.js #6@メルカリ](https://roppongi-js.connpass.com/event/98983/)
+https://speakerdeck.com/sadnessojisan
+
+-  [Inside Frontend](http://inside-frontend.com)[Form の送信ログから反省する、 本当は必要だったバリデーションや機能たち]　/　(https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati) 
+- [Roppongi.js #6@メルカリ](https://roppongi-js.connpass.com/event/98983/) / [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha)
 
 ### writing
 
-- [技術書典 初めてサークル参加する前に知っておきたかったこと](https://note.mu/sadness_ojisan/n/n68914ac1d5ee)
-- [CI/CD 環境を作ると、効率良くインフラの知識が身につく気がする 〜GCP で drone を動かすチュートリアル〜](https://qiita.com/sadnessOjisan/items/724c1882d0842f2813f8)
-- [マッチングアプリ強者を体験できる PWA 開発で、Web プッシュ通知を理解しよう](https://qiita.com/sadnessOjisan/items/05bbca78bca3301d24b2)
-- [関心の分離を意識してサーバーを作ってみる(TypeScript + Express)](https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd)
+#### Qiita
+
+- [ビルド時に俳句を読めるプラグイン](https://qiita.com/sadnessOjisan/items/98619eaaef1da8d6545a)
+- [DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう](https://qiita.com/sadnessOjisan/items/d05e35e34d2d1fb7e844)
 - [Marquee タグに詳しくないと攻略できないブロック崩しゲーム](https://qiita.com/sadnessOjisan/items/51bb949466fdd065a5a6)
-- [スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる](https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720)
+
+https://qiita.com/sadnessOjisan
+
+#### Note
+
+- [技術書典 初めてサークル参加する前に知っておきたかったこと](https://note.mu/sadness_ojisan/n/n68914ac1d5ee)
+
+#### Blog
+
 - [React Redux を型で縛ってみよう](https://engineer.recruit-lifestyle.co.jp/techblog/2019-01-31-how-to-bind-react-with-Flow/)
 - [React 勉強会のノウハウを紹介します](https://engineer.recruit-lifestyle.co.jp/techblog/2019-01-17-react-training/)
+
+#### その他
 - [Node 学園祭の最終回に参加してきました](https://gihyo.jp/news/report/2018/12/0601)
 
 ### 電子ゴミ
 
-- [外国語のドキュメントに出会った時の感覚を、外国人感覚で味わうツール](https://exoticism.netlify.com)
-  - ソースコード以外を全部漢字に変換します。ReasonML + OCaml + React
 - [web 廃墟コンポーネント](https://github.com/sadnessOjisan/re-geo)
   - ジオシティーズライクなページを作るための React コンポーネント集
+- [俳句コア](https://github.com/sadnessOjisan/haiku-core)
+  - ASTで俳句を操作するためのコアライブラリ
+- [外国語のドキュメントに出会った時の感覚を、外国人感覚で味わうツール](https://exoticism.netlify.com)
+  - ソースコード以外を全部漢字に変換します。ReasonML + OCaml + React
+
+
