@@ -1,7 +1,5 @@
 # about-me
 
-技術力がないから変なことをして目立とうとしているタイプのアレです。
-
 ## bio
 
 - Name: Yuta Ide
@@ -24,10 +22,10 @@
 
 ### presentation
 
-https://speakerdeck.com/sadnessojisan
-
--  [Inside Frontend](http://inside-frontend.com)[Form の送信ログから反省する、 本当は必要だったバリデーションや機能たち]　/　(https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati) 
+-  [Inside Frontend](http://inside-frontend.com) / [Form の送信ログから反省する、 本当は必要だったバリデーションや機能たち](https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati) 
 - [Roppongi.js #6@メルカリ](https://roppongi-js.connpass.com/event/98983/) / [親に向かってなんだその z-index は](https://speakerdeck.com/sadnessojisan/qin-nixiang-katutenandasofalsez-indexha)
+
+https://speakerdeck.com/sadnessojisan
 
 ### writing
 
