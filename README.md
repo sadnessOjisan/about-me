@@ -12,6 +12,7 @@
 - 2017/4 ~ : 株式会社 [リクルートライフスタイル](https://www.recruit-lifestyle.co.jp/) 入社。 3 ヶ月の営業研修の後、UX デザイナーとして配属。ウェブメディアの校閲や編集を担当。
 - 2018/4 ~ : フロントエンドエンジニアとして異動。 [Air メイト](https://airregi.jp/mate/)のフロントエンド開発を担当。
 - 2019/4 ~ : バックエンドエンジニアとして異動。 Java で Spring。
+- 2020/2 ~ : 無職
 
 ## skill
 
@@ -57,5 +58,5 @@ https://qiita.com/sadnessOjisan
   - ASTで俳句を操作するためのコアライブラリ
 - [外国語のドキュメントに出会った時の感覚を、外国人感覚で味わうツール](https://exoticism.netlify.com)
   - ソースコード以外を全部漢字に変換します。ReasonML + OCaml + React
-
-
+- [Tmonkey](https://github.com/sadnessOjisan/tmonkey)
+  - monkey言語のTS実装
